@@ -1,7 +1,7 @@
 <div align="center">
 
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=ＡＳＩＴＨＡ+ＭＤ+V3+ＷＨＡＴＳＡＰＰ+ＢＯＴ)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=F1F70C&width=435&height=100&lines=%F0%9D%97%A4%F0%9D%97%A8%F0%9D%97%98%F0%9D%97%98%F0%9D%97%A1-%F0%9D%97%A0%F0%9D%97%98%F0%9D%97%A7%F0%9D%97%9B%F0%9D%97%A8-%F0%9D%97%A0%F0%9D%97%97+)
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 <p align="center">
